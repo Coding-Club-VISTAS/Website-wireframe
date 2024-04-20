@@ -500,8 +500,8 @@ mark,
 
 .blockquote-footer {
 	display: block;
-	font-size: 80%;
-	color: #868e96
+	font-size: 100%;
+	color: #ffffff
 }
 
 .blockquote-footer::before {
@@ -19303,7 +19303,7 @@ h6.bold::before,
 }
 
 .blockquote footer {
-	color: #757575;
+	color:#ffffff;
 	font-size: 0.875rem;
 	margin-top: 1.5rem
 }
