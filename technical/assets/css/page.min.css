@@ -25186,7 +25186,10 @@ body:not(.body-scrolled) .topbar.d-flex~.navbar {
 .navbar-open .navbar .logo-light {
 	display: none
 }
-
+.logo-dark.logolight{
+	width: 65px;
+	height: 65px;
+}
 .navbar-open .navbar .navbar-toggler {
 	color: rgba(117, 117, 117, 0.8)
 }
