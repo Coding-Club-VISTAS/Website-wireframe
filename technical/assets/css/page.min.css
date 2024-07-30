@@ -25187,12 +25187,12 @@ body:not(.body-scrolled) .topbar.d-flex~.navbar {
 	display: none
 }
 .logo-dark{
-	width: 65px;
-	height: 65px;
+	width: 100px;
+	height: 100px;
 }
 .logo-light{
-	width: 65px;
-	height: 65px;
+	width: 100px;
+	height: 100px;
 }
 .navbar-open .navbar .navbar-toggler {
 	color: rgba(117, 117, 117, 0.8)
