@@ -25186,7 +25186,11 @@ body:not(.body-scrolled) .topbar.d-flex~.navbar {
 .navbar-open .navbar .logo-light {
 	display: none
 }
-.logo-dark.logolight{
+.logo-dark{
+	width: 65px;
+	height: 65px;
+}
+.logo-light{
 	width: 65px;
 	height: 65px;
 }
